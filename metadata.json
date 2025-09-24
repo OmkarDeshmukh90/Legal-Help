@@ -1,0 +1,5 @@
+{
+  "name": "Legal Case Classifier for Bharatiya Nyaya Sanhita",
+  "description": "An AI-powered assistant to classify legal cases based on their descriptions, specifically tailored for the new Indian legal system. Input a case summary, and the application will provide a classification, justification, key legal concepts, and relevant sections from the Bharatiya Nyaya Sanhita (BNS).",
+  "requestFramePermissions": []
+}
